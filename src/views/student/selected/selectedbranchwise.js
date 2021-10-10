@@ -25,7 +25,7 @@ function selectedbranchwise() {
                       <tr>
                         <td>2019UGCSxxx</td>
                         <td>ABC</td>
-                        <td>Internship</td>
+                        <td> Internship </td>
                         <td>Microsoft</td>
                         <td>[PDF]</td>
                       </tr>
@@ -89,7 +89,7 @@ function selectedbranchwise() {
                         <td>XYZ</td>
                         <td>Job</td>
                         <td>Goldman Sachs</td>
-                        <td>[PDF]</td>
+                        <td> [PDF] </td>
                         </tr>
                       <tr>
                         <td>2019UGECxxx</td>
@@ -396,4 +396,4 @@ function selectedbranchwise() {
     )
 }
 
-export default selectedbranchwise
+export default selectedbranchwise;
