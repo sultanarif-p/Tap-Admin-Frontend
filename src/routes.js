@@ -10,17 +10,17 @@ import Notifications from './views/notifications';
 import Settings from './views/settings';
 import Signin from './components/Signin';
 import Addjobs from './views/addjobs';
-import Microsoft from "./views/dashboard/company/microsoft"
-import Facebook from "./views/dashboard/company/facebook"
-import Paypal from "./views/dashboard/company/paypal"
-import Spotify from "./views/dashboard/company/spotify"
+import Microsoft from "./views/dashboard/company/microsoft";
+import Facebook from "./views/dashboard/company/facebook";
+import Paypal from "./views/dashboard/company/paypal";
+import Spotify from "./views/dashboard/company/spotify";
 
-import MicrosoftStudent from "./views/dashboard/student/microsoft"
-import FacebookStudent from "./views/dashboard/student/facebook"
-import PaypalStudent from "./views/dashboard/student/paypal"
-import SpotifyStudent from "./views/dashboard/student/spotify"
+import MicrosoftStudent from "./views/dashboard/student/microsoft";
+import FacebookStudent from "./views/dashboard/student/facebook";
+import PaypalStudent from "./views/dashboard/student/paypal";
+import SpotifyStudent from "./views/dashboard/student/spotify";
 
-//different routes
+//different routes with name and path
 const dashboardRoutes = [
   {
     path: "/dashboard",
